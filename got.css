@@ -1,0 +1,58 @@
+body{
+  margin:40px 20px 20px 40px;
+}
+.jumbotron2{
+  margin-top:20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #c4d7d6;
+}
+.smaller-image{
+  width:60%;
+}
+.gray-text{
+  color:gray;
+  font-family:'Dancing Script', cursive;
+}
+.title{
+  font-family:'Roboto Slab', serif;
+  color:#5dbe8a;
+}
+.quote{
+  font-family:'Playfair Display', serif;
+  margin-right:20px;
+  margin-left:20px;
+}
+.contain{
+  font-family:'Roboto Slab', serif;
+  margin-left:30px;
+  font-size:25px;
+}
+.smaller-contain{
+  font-family:'Roboto Slab', serif;
+  margin-left:35px;
+  margin-right:20px;
+  font-size:20px;
+}
+.story{
+  font-family: 'Indie Flower', cursive;
+  margin-right:20px;
+  margin-left:20px;
+  font-size:20px;
+  color:#5dbe8a;
+}
+p{
+  text-indent:2em
+}
+.last{
+  margin-right:20px;
+  margin-left:20px;
+  font-size:20px;
+  font-family:'Playfair Display', serif;
+}
+.surprise{
+  font-family: 'Permanent Marker', cursive;
+  color:#c4d7d6;
+}
